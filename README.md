@@ -73,6 +73,4 @@ SESD-Workshop/
 The backend connects to a MongoDB database at `mongodb://localhost:27017/sesd_employees`.
 The server runs on port `5001` by default.
 
-## License
 
-[Add License Information Here]
